@@ -1,0 +1,15 @@
+{
+  "name": "VimalkumarJ_Beta.COM",
+  "version": "0.0.0",
+  "description": "VimalkumarJ_Beta.COM",
+  "main": "app.js",
+  "author": {
+    "name": "Vimal",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
